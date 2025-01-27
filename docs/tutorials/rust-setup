@@ -82,7 +82,7 @@ Hello COMP423!
 # Full development workflow
 cargo new <project-name> --bin --vcs none  # Project creation
 cargo build                               # Compilation
-cargo run                                 # Execution
+cargo run                                 # Executions
 cargo check                               # Quick compile check
 ```
 
