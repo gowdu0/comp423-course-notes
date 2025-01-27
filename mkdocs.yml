@@ -15,4 +15,4 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Tutorials:
-    - Rust Setup: docs/tutorials/rust-setup.md
+    - Rust Setup: tutorials/rust-setup.md
